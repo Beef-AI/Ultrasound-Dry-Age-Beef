@@ -1,4 +1,4 @@
-   ![logo]
+![logo](https://github.com/Beef-AI/Ultrasound-Dry-Age-Beef/blob/main/image/logo.jpg?raw=true)
 
 ---
 
@@ -36,20 +36,20 @@ For hundreds of years, dry-aged beef has been a premium ingredient in high-end r
 
 # Our AI Application
 
-![picture]
+![picture](https://github.com/Beef-AI/Ultrasound-Dry-Age-Beef/blob/main/image/Iteration1.png?raw=true)
 
 
 **Online Assessment Model**: This feature provides an accessible and efficient way to evaluate the aging process remotely, catering to customers who prefer or require online analysis capabilities.
 
 **Online Assessment Model** : The following Python code includes APIs and relevant parameters for connecting to our online model. This enables direct, real-time assessment in an online environment.
 
-[Python Code]
+[Python Code](https://github.com/Beef-AI/Ultrasound-Dry-Age-Beef/blob/main/Python%20Code/Azure%20Online%20Assessment%20Model.py)
 
 <br>
 
 ---
 
-![picture]
+![picture](https://github.com/Beef-AI/Ultrasound-Dry-Age-Beef/blob/main/image/Iteration2.png?raw=true)
 
 
 **Local Assessment Model** : Designed for on-site evaluation, this model enables direct, immediate analysis of the aging process, ideal for customers who require or prefer in-person, hands-on assessment.
@@ -59,12 +59,12 @@ For hundreds of years, dry-aged beef has been a premium ingredient in high-end r
 
 **Offline Assessment Model** : This model is specifically designed for offline evaluations, providing an effective and secure way to assess the aging process of dry-aged beef without the need for an online connection.
 
-[Tensorlite model]
+[Tensorlite model](https://github.com/Beef-AI/Ultrasound-Dry-Age-Beef/tree/main/Tensorlite%20model)
 
 ---
 
 # Refer to Our Recipes
-[Cooking Steak Recipes]
+[Cooking Steak Recipes](https://github.com/Beef-AI/Ultrasound-Dry-Age-Beef/blob/main/Cooking%20Steak%20Recipes/Cooking%20Steak%20Recipes.pdf)
 
 Explore our curated selection of recipes, designed to enhance your culinary experience with our premium dry-aged beef. Perfect for home chefs and culinary enthusiasts alike.
 
@@ -93,4 +93,5 @@ Instagram : https://www.instagram.com/beefai2024?igsh=ZTNvdG0yYWd6NWE0
 
 
 **Let technology handle it and simply enjoy the perfect Dry Age Beef culinary experience!**
+
 
