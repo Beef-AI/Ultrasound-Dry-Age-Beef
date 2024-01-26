@@ -1,0 +1,96 @@
+   ![logo]
+
+---
+
+# Innovative Dry-Aged Beef Production with Technology
+
+For hundreds of years, dry-aged beef has been a premium ingredient in high-end restaurants. As the surface moisture of the meat evaporates, it forms a dry crust, helping to lock in internal moisture, concentrate fermentation flavors, and enhance tenderness, flavor, and juiciness. The introduction of Beef AI, employing ultrasonic technology, custom vision, and aging bags, transforms the traditional costly aging cabinet process, reducing both financial and material waste, and offering a novel option for the culinary industry.
+
+---
+
+### Why using for an Innovative Method to Produce Dry-Aged Beef
+
+**Characteristics of Traditional Dry-Aged Beef**
+- In traditional dry-aging, meat dehydrates and forms a hard, inedible outer crust at low temperatures, leading to concerns about microbial contamination. Only 50-60% of the meat remains usable post-aging.
+- Some processes include UV sterilization to reduce microbial risks, but this still relies heavily on real-time monitoring by professionals and chefs' assessments of aging status and quality. The substantial loss, labor, and equipment demands are the primary challenges in traditional dry-aged beef production.
+
+**Innovative Detection Technology**
+- We use aging bags with a unidirectional drainage design to minimize cross-contamination concerns in standard refrigerators.
+- Each beef piece is disinfected before aging, and ultrasonic technology scans the condition of each piece, achieving an innovative method with reduced contamination and loss.
+
+
+**Key Technologies**
+1. **Aging Bags** : Post-disinfection, the beef is placed in aging bags to prevent microbial infection.
+   
+2. **Ultrasonic Detection Technology** : This technology scans each piece of aging beef, avoiding traditional methods prone to contamination risks.
+
+3. **Artificial Intelligence Image Recognition** : We use Microsoft Azure Customvision for Classification training. Enzymes in the beef break down connective tissues, causing a "blurred" black image in scans. This characteristic is used to identify different aging stages.It offers up to 90% accuracy for assessing the aging degree of beef.
+ 
+4. **Hygiene** : Once disinfected and placed in aging bags, the beef is isolated from external contact, reducing contamination and loss risks.
+   
+5. **Cost-Effective** : Eliminates the need for expensive aging cabinets and specialized personnel, making dry-aged beef more affordable.
+
+6. **Online and Local Recognition Models** : We offer both online and local assessment methods, allowing customers with various needs to utilize this AI detection system.
+     
+---
+
+# Our AI Application
+
+![picture]
+
+
+**Online Assessment Model**: This feature provides an accessible and efficient way to evaluate the aging process remotely, catering to customers who prefer or require online analysis capabilities.
+
+**Online Assessment Model** : The following Python code includes APIs and relevant parameters for connecting to our online model. This enables direct, real-time assessment in an online environment.
+
+[Python Code]
+
+<br>
+
+---
+
+![picture]
+
+
+**Local Assessment Model** : Designed for on-site evaluation, this model enables direct, immediate analysis of the aging process, ideal for customers who require or prefer in-person, hands-on assessment.
+
+**Local Assessment Model with Reduced Size** : Tailored for deployment locally, this model is smaller and slightly less effective in assessment compared to the online version. However, it significantly enhances data security by preventing data leakage in network systems.
+
+
+**Offline Assessment Model** : This model is specifically designed for offline evaluations, providing an effective and secure way to assess the aging process of dry-aged beef without the need for an online connection.
+
+[Tensorlite model]
+
+---
+
+# Refer to Our Recipes
+[Cooking Steak Recipes]
+
+Explore our curated selection of recipes, designed to enhance your culinary experience with our premium dry-aged beef. Perfect for home chefs and culinary enthusiasts alike.
+
+---
+
+# Beef AI Introduction PDF
+[Beef AI Introduction PDF]
+
+---
+
+### The Office-related links:
+Office website : https://sites.google.com/view/beefai/%E9%A6%96%E9%A0%81
+
+Founder Linkedin : https://www.linkedin.com/in/jia-long-chen-49b46389/
+
+Facebook : https://www.facebook.com/profile.php?id=61555259531826&mibextid=JRoKGi
+
+Instagram : https://www.instagram.com/beefai2024?igsh=ZTNvdG0yYWd6NWE0
+
+---
+
+### Contact us
+<beefai@gmail.com>
+
+
+
+
+**Let technology handle it and simply enjoy the perfect Dry Age Beef culinary experience!**
+
