@@ -70,8 +70,10 @@ Explore our curated selection of recipes, designed to enhance your culinary expe
 
 ---
 
-# Beef AI Introduction PDF
+# Beef AI Introduction PDF & video
 [Beef AI Introduction PDF]
+
+[video]
 
 ---
 
