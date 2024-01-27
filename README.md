@@ -81,7 +81,14 @@ Explore our curated selection of recipes, designed to enhance your culinary expe
 
 [Founder'CV](https://github.com/Beef-AI/Ultrasound-Dry-Age-Beef/blob/main/Founder-CV/Jia-Long-Chen%20CV.pdf)
 
-[video](https://youtube.com/shorts/hHIYjScT4hw?feature=share)
+[video](https://youtube.com/watch/WIF1ZY_O2Ps?feature=share)
+
+---
+
+**Beef AI GPTs** :
+Provide an introduction about Beef AI, easy cooking recipes for dry-aged beef, and the difference between wet-aged beef and dry-aged beef.
+
+[Dry Aged Beef](https://chat.openai.com/g/g-MPgq0c3wb-dry-aged-beef)
 
 ---
 
