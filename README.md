@@ -63,7 +63,7 @@ For hundreds of years, dry-aged beef has been a premium ingredient in high-end r
 
 ---
 
-# Refer to Our Recipes & Menu
+# Refer to Our Menu & Recipes  
 
 [Menu](https://github.com/Beef-AI/Ultrasound-Dry-Age-Beef/blob/main/Menu/Dry%20Age%20Beef%20Order-EN.pdf)
 
