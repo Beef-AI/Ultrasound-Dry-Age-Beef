@@ -85,7 +85,7 @@ Explore our curated selection of recipes, designed to enhance your culinary expe
 
 ---
 
-**Beef AI GPTs** :
+# Beef AI GPT :
 Provide an introduction about Beef AI, easy cooking recipes for dry-aged beef, and the difference between wet-aged beef and dry-aged beef.
 
 [Dry Aged Beef](https://chat.openai.com/g/g-MPgq0c3wb-dry-aged-beef)
