@@ -63,7 +63,9 @@ For hundreds of years, dry-aged beef has been a premium ingredient in high-end r
 
 ---
 
-# Refer to Our Recipes
+# Refer to Our Recipes & Menu
+
+[Menu](https://github.com/Beef-AI/Ultrasound-Dry-Age-Beef/blob/main/Menu/Dry%20Age%20Beef%20Order-EN.pdf)
 [Cooking Steak Recipes](https://github.com/Beef-AI/Ultrasound-Dry-Age-Beef/blob/main/Cooking%20Steak%20Recipes/Cooking%20Steak%20Recipes.pdf)
 
 Explore our curated selection of recipes, designed to enhance your culinary experience with our premium dry-aged beef. Perfect for home chefs and culinary enthusiasts alike.
