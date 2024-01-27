@@ -76,6 +76,8 @@ Explore our curated selection of recipes, designed to enhance your culinary expe
 
 [Teaching unit](https://github.com/Beef-AI/Ultrasound-Dry-Age-Beef/blob/main/Beef%20AI%20Introduction%20PDF/Teaching%20unit%20-%20Pei%20Pei%20Lin.pdf)
 
+[Founder'CV](https://github.com/Beef-AI/Ultrasound-Dry-Age-Beef/blob/main/Founder-CV/Jia-Long-Chen%20CV.pdf)
+
 [video](https://youtube.com/shorts/hHIYjScT4hw?feature=share)
 
 ---
@@ -84,8 +86,6 @@ Explore our curated selection of recipes, designed to enhance your culinary expe
 Office website : https://sites.google.com/view/beefai/%E9%A6%96%E9%A0%81
 
 Founder Linkedin : https://www.linkedin.com/in/jia-long-chen-49b46389/
-
-
 
 Facebook : https://www.facebook.com/profile.php?id=61555259531826&mibextid=JRoKGi
 
