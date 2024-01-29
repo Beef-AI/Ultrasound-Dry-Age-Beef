@@ -63,6 +63,14 @@ For hundreds of years, dry-aged beef has been a premium ingredient in high-end r
 
 ---
 
+# Automated Order Management Analysis Using Python Code
+
+[Beef AI Online Order Management Python Code](https://github.com/Beef-AI/Ultrasound-Dry-Age-Beef/blob/main/Python%20Code/Online%20Order%20Management.py)
+
+We employ the Google Cloud Platform console for analyzing online orders, enabling local retrieval without the need to individually analyze each order through an online form. This approach includes a time filter feature, allowing for the specification of particular time periods to obtain more precise analyses.
+
+---
+
 # Refer to Our Menu & Recipes  
 
 [Menu](https://github.com/Beef-AI/Ultrasound-Dry-Age-Beef/blob/main/Menu/Dry%20Age%20Beef%20Order-EN.pdf)
