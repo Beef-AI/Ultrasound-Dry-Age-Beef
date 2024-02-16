@@ -62,6 +62,20 @@ For hundreds of years, dry-aged beef has been a premium ingredient in high-end r
 [Tensorlite model](https://github.com/Beef-AI/Ultrasound-Dry-Age-Beef/tree/main/Tensorlite%20model)
 
 ---
+# Enhancing Product Quality Through Combined Assessment Methods
+
+In addition to utilizing artificial intelligence (AI) for evaluation, integrating "brightness" levels into the aging assessment process significantly improves product quality. Here's how this method evolves over the aging period:
+
+![Picture](https://github.com/Beef-AI/Ultrasound-Dry-Age-Beef/blob/main/Average%20brightness%20contrast/Comparison%20of%20Average%20Brightness%20in%20Different%20Periods.png?raw=true)
+
+1. **Day 1 of Aging**: At the onset of the aging process, the muscle and connective tissues within the beef, such as fascia, are not yet decomposed by the meat's enzymes. Scanning images at this stage clearly show these structures as high-brightness white images, indicating their intact state.
+
+2. **Day 28 of Aging**: By the end of the aging process, the enzymes within the beef have completely broken down these tissues. Scanning images now fail to clearly display any structured images of the tissues. Instead, what is observed are blurred images of the muscle and connective tissues, which appear as dark ultrasonic images, signifying their decomposition.
+
+This approach, combining AI with brightness assessment, offers a more nuanced and comprehensive evaluation of beef aging, ensuring the meat reaches its optimum condition.
+
+
+---
 
 # Automated Order Management Analysis Using Python Code
 
